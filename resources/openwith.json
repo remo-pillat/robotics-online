@@ -1,3 +1,7 @@
 {
-"feature_file": "interactiveRobot.mlx",
+  "author": "rpillat",
+  "folder_name": "robotics-online",
+  "feature_file": "interactiveRobot.mlx",
+  "ignore": [],
+  "startup": ""
 }
